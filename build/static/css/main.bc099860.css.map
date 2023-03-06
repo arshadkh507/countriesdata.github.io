@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bc099860.css","mappings":"AAAA,MACE,cAAe,CACf,uBACF,CAEA,YACE,4EACF","sources":["components/card.css"],"sourcesContent":[".card {\r\n  cursor: pointer;\r\n  transition: all 0.3s ease;\r\n}\r\n\r\n.card:hover {\r\n  box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.14), -3px -3px 5px 3px rgba(0, 0, 0, 0.14);\r\n}"],"names":[],"sourceRoot":""}
